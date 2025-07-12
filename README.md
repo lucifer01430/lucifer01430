@@ -1,6 +1,12 @@
 # 💫 About Me:
-👋 Hello, I'm Harsh Pandey<br>🎓 Diploma in Information Technology | 2 Year  Experience In Frontend Development<br>🌐 Web Developer | Passionate About Creative Digital Solutions<br>Technical Skills: C, PHP, Web Development, MS Office (Word, Excel, PowerPoint).<br>Expertise: Specializes in intuitive, responsive, and visually appealing web designs.<br>Additional Roles: Part-time Academic Teacher & Content Creator.<br>Strengths: Quick learner, strong work ethic, problem-solving, independent & collaborative work.<br>Passion: Transforming complex challenges into creative digital solutions.
-
+- 👋 Hello, I'm Harsh Pandey
+- 🎓 Completed Diploma in Information Technology
+- 💼 Frontend Web Developer at a Hotel & Wellness Resort
+- 🌐 Passionate about building responsive and visually appealing web interfaces
+- 🛠️ Technical Skills: HTML, CSS, JavaScript, Bootstrap, C, PHP, MS Office
+- 🎯 Focus Areas: Intuitive UI/UX, cross-device compatibility, performance optimization
+- 📚 Also a part-time academic teacher & content creator
+- 🚀 Always eager to learn and solve real-world problems through code
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lucifer__1430) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harsh-pandey) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DigitalDoze0143) 
