@@ -1,3 +1,11 @@
+<div align="center">
+
+<!-- 🌑 Dark Theme -->
+![Snake Animation](https://raw.githubusercontent.com/lucifer01430/lucifer01430/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+
 # 💫 About Me:
 Hi, I'm **Harsh Pandey**  
 🎓 Diploma in Information Technology  
