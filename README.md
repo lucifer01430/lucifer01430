@@ -1,9 +1,15 @@
-<div align="center">
 
+<div align="center">
+<!-- Default Theme -->
+<!--![Snake Animation](https://raw.githubusercontent.com/Anuj579/Anuj579/output/github-contribution-grid-snake.svg)
+
+<!-- Uncomment the theme you prefer: -->
 <!-- 🌑 Dark Theme -->
 ![Snake Animation](https://raw.githubusercontent.com/lucifer01430/lucifer01430/output/github-contribution-grid-snake-dark.svg)
 
+
 </div>
+
 
 
 # 💫 About Me:
