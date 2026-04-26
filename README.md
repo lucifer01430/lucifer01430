@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=lucifer01430&label=Profile%20Views&color=0e75b6&style=flat)
 
 <div align="center">
 <!-- Default Theme -->
@@ -12,16 +13,23 @@
 
 
 
+
 # 💫 About Me:
-Hi, I'm **Harsh Pandey**  
-🎓 Diploma in Information Technology  
-💼 Frontend Web Developer with **2+ years of professional experience**  
-🌐 Passionate about building **responsive, creative, and scalable** web applications  
-💡 Exploring **Python** for automation, backend development, and problem-solving  
-🛠️ Technical Skills: HTML, CSS, JavaScript, Bootstrap, Python, C, PHP, MS Office  
-🎯 Focus Areas: Intuitive **UI/UX**, cross-device compatibility, and performance optimization  
-📚 Part-time **academic teacher** & **content creator**  
-🚀 Always eager to learn and solve real-world problems through code  
+
+Hi, I'm **Harsh Pandey**
+
+Web Developer with **3+ years of experience** building responsive and scalable web applications.
+
+Currently working on real-world projects using **Python (Django), PHP, and MySQL**, focusing on performance, usability, and deployment.
+
+Experienced in:
+- Frontend development (HTML, CSS, JavaScript, Bootstrap)
+- Backend development using Django & Core PHP
+- Database management (MySQL, SQLite)
+- Hosting, deployment, DNS, SSL, and server configuration
+
+Worked on multiple live client projects, delivering complete end-to-end web solutions.
+
 
 ---
 
@@ -33,45 +41,52 @@ Hi, I'm **Harsh Pandey**
 ---
 
 # 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) 
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+
+### 🚀 Backend
+![Python](https://img.shields.io/badge/python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
+### 🎨 Frontend
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
+
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ⚙️ DevOps & Deployment
+![Linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white)
+![KVM](https://img.shields.io/badge/kvm-%23E34F26.svg?style=for-the-badge&logo=linux&logoColor=white)
+![Hostinger](https://img.shields.io/badge/hostinger-%23673AB7.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+### 🛠️ IDEs & Tools
+![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Apache NetBeans](https://img.shields.io/badge/NetBeans-%231B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-%23000000.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### 🎯 Skills
+- Domain Setup & DNS Configuration  
+- Email Setup & Server Configuration  
+- Hosting & Deployment (Shared + VPS)  
+- SSL, cPanel, Server Management  
+
+### 🧠 Others
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=lucifer01430&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=lucifer01430&theme=default_repocard&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer01430&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=lucifer01430&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucifer01430&layout=compact&hide_border=true)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=lucifer01430&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)  
-
----
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)  
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lucifer01430&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=lucifer01430&icon=1&color=13)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
